@@ -12,4 +12,4 @@ You can see the weather outlook for multiple cities
 SO anyone can plan a trip accordingly
 ```
 
-## deployment link 
+## deployment link https://weather-forecast-app-aigi.onrender.com
